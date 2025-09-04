@@ -1,0 +1,1082 @@
+.bg-light-blue {
+    background-color: lightblue;
+}
+
+/* Red*/
+.red-hue-50 {
+    background-color: #FFDEBE;
+    /* --bs-btn-color: #fff;
+  --bs-btn-bg: #0d6efd;
+  --bs-btn-border-color: #0d6efd;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #0b5ed7;
+  --bs-btn-hover-border-color: #0a58ca;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #0a58ca;
+  --bs-btn-active-border-color: #0a53be;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #0d6efd;
+  --bs-btn-disabled-border-color: #0d6efd; */
+}
+
+.red-hue-100 {
+    background-color: #FFCDD2;
+}
+
+.red-hue-200 {
+    background-color: #EF9A9A;
+}
+
+.red-hue-300 {
+    background-color: #E57373;
+}
+
+.red-hue-400 {
+    background-color: #EF5350;
+}
+
+.red-hue-500 {
+    background-color: #F44336;
+}
+
+.red-hue-600 {
+    background-color: #E53935;
+}
+
+.red-hue-700 {
+    background-color: #D32F2F;
+}
+
+.red-hue-800 {
+    background-color: #C62828;
+}
+
+.red-hue-900 {
+    background-color: #B71C1C;
+}
+
+.red-hue-A100 {
+    background-color: #FF8A80;
+}
+
+.red-hue-A200 {
+    background-color: #FF5252;
+}
+
+.red-hue-A400 {
+    background-color: #FF1744;
+}
+
+.red-hue-A700 {
+    background-color: #D50000;
+}
+
+/* Pink*/
+
+.pink-hue-50 {
+    background-color: #FCE4EC;
+}
+
+.pink-hue-100 {
+    background-color: #F8BBD0;
+}
+
+.pink-hue-200 {
+    background-color: #F48FB1;
+}
+
+.pink-hue-300 {
+    background-color: #F06292;
+}
+
+.pink-hue-400 {
+    background-color: #EC407A;
+}
+
+.pink-hue-500 {
+    background-color: #E91E63;
+}
+
+.pink-hue-600 {
+    background-color: #D81B60;
+}
+
+.pink-hue-700 {
+    background-color: #C2185B;
+}
+
+.pink-hue-800 {
+    background-color: #AD1457;
+}
+
+.pink-hue-900 {
+    background-color: #880E4F;
+}
+
+.pink-hue-A100 {
+    background-color: #FF80AB;
+}
+
+.pink-hue-A200 {
+    background-color: #FF4081;
+}
+
+.pink-hue-A400 {
+    background-color: #F50057;
+}
+
+.pink-hue-A700 {
+    background-color: #C51162;
+}
+
+/* Purple*/
+
+.purple-hue-50 {
+    background-color: #F3E5F5;
+}
+
+.purple-hue-100 {
+    background-color: #E1BEE7;
+}
+
+.purple-hue-200 {
+    background-color: #CE93D8;
+}
+
+.purple-hue-300 {
+    background-color: #BA68C8;
+}
+
+.purple-hue-400 {
+    background-color: #AB47BC;
+}
+
+.purple-hue-500 {
+    background-color: #9C27B0;
+}
+
+.purple-hue-600 {
+    background-color: #8E24AA;
+}
+
+.purple-hue-700 {
+    background-color: #7B1FA2;
+}
+
+.purple-hue-800 {
+    background-color: #6A1B9A;
+}
+
+.purple-hue-900 {
+    background-color: #4A148C;
+}
+
+.purple-hue-A100 {
+    background-color: #EA80FC;
+}
+
+.purple-hue-A200 {
+    background-color: #E040FB;
+}
+
+.purple-hue-A400 {
+    background-color: #D500F9;
+}
+
+.purple-hue-A700 {
+    background-color: #AA00FF;
+}
+
+/* Deep Purple*/
+
+.deep-purple-hue-50 {
+    background-color: #EDE7F6;
+}
+
+.deep-purple-hue-100 {
+    background-color: #D1C4E9;
+}
+
+.deep-purple-hue-200 {
+    background-color: #B39DDB;
+}
+
+.deep-purple-hue-300 {
+    background-color: #9575CD;
+}
+
+.deep-purple-hue-400 {
+    background-color: #7E57C2;
+}
+
+.deep-purple-hue-500 {
+    background-color: #673AB7;
+}
+
+.deep-purple-hue-600 {
+    background-color: #5E35B1;
+}
+
+.deep-purple-hue-700 {
+    background-color: #512DA8;
+}
+
+.deep-purple-hue-800 {
+    background-color: #4527A0;
+}
+
+.deep-purple-hue-900 {
+    background-color: #311B92;
+}
+
+.deep-purple-hue-A100 {
+    background-color: #B388FF;
+}
+
+.deep-purple-hue-A200 {
+    background-color: #7C4DFF;
+}
+
+.deep-purple-hue-A400 {
+    background-color: #651FFF;
+}
+
+.deep-purple-hue-A700 {
+    background-color: #6200EA;
+}
+
+
+/* Indigo*/
+.indigo-hue-50 {
+    background-color: #E8EAF6;
+}
+
+.indigo-hue-100 {
+    background-color: #C5CAE9;
+}
+
+.indigo-hue-200 {
+    background-color: #9FA8DA;
+}
+
+.indigo-hue-300 {
+    background-color: #7986CB;
+}
+
+.indigo-hue-400 {
+    background-color: #5C6BC0;
+}
+
+.indigo-hue-500 {
+    background-color: #3F51B5;
+}
+
+.indigo-hue-600 {
+    background-color: #3949AB;
+}
+
+.indigo-hue-700 {
+    background-color: #303F9F;
+}
+
+.indigo-hue-800 {
+    background-color: #283593;
+}
+
+.indigo-hue-900 {
+    background-color: #1A237E;
+}
+
+.indigo-hue-A100 {
+    background-color: #8C9EFF;
+}
+
+.indigo-hue-A200 {
+    background-color: #536DFE;
+}
+
+.indigo-hue-A400 {
+    background-color: #3D5AFE;
+}
+
+.indigo-hue-A700 {
+    background-color: #304FFE;
+}
+
+
+/* Blue*/
+.blue-hue-50 {
+    background-color: #E3F2FD;
+}
+
+.blue-hue-100 {
+    background-color: #BBDEFB;
+}
+
+.blue-hue-200 {
+    background-color: #90CAF9;
+}
+
+.blue-hue-300 {
+    background-color: #64B5F6;
+}
+
+.blue-hue-400 {
+    background-color: #42A5F5;
+}
+
+.blue-hue-500 {
+    background-color: #2196F3;
+}
+
+.blue-hue-600 {
+    background-color: #1E88E5;
+}
+
+.blue-hue-700 {
+    background-color: #1976D2;
+}
+
+.blue-hue-800 {
+    background-color: #1565C0;
+}
+
+.blue-hue-900 {
+    background-color: #0D47A1;
+}
+
+.blue-hue-A100 {
+    background-color: #82B1FF;
+}
+
+.blue-hue-A200 {
+    background-color: #448AFF;
+}
+
+.blue-hue-A400 {
+    background-color: #2979FF;
+}
+
+.blue-hue-A700 {
+    background-color: #2962FF;
+}
+
+/* Light Blue*/
+.light-blue-hue-50 {
+    background-color: #E1F5FE;
+
+}
+
+.light-blue-hue-100 {
+    background-color: #B3E5FC;
+}
+
+.light-blue-hue-200 {
+    background-color: #81D4FA;
+}
+
+.light-blue-hue-300 {
+    background-color: #4FC3F7;
+}
+
+.light-blue-hue-400 {
+    background-color: #29B6F6;
+}
+
+.light-blue-hue-500 {
+    background-color: #03A9F4;
+}
+
+.light-blue-hue-600 {
+    background-color: #039BE5;
+}
+
+.light-blue-hue-700 {
+    background-color: #0288D1;
+}
+
+.light-blue-hue-800 {
+    background-color: #0277BD;
+}
+
+.light-blue-hue-900 {
+    background-color: #01579B;
+}
+
+.light-blue-hue-A100 {
+    background-color: #80D8FF;
+}
+
+.light-blue-hue-A200 {
+    background-color: #40C4FF;
+}
+
+.light-blue-hue-A400 {
+    background-color: #00B0FF;
+}
+
+.light-blue-hue-A700 {
+    background-color: #0091EA;
+}
+
+/* Cyan*/
+
+.cyan-hue-50 {
+    background: #E0F7FA;
+}
+
+.cyan-hue-100 {
+    background: #B2EBF2;
+}
+
+.cyan-hue-200 {
+    background: #80DEEA;
+}
+
+.cyan-hue-300 {
+    background: #4DD0E1;
+}
+
+.cyan-hue-400 {
+    background: #26C6DA;
+}
+
+.cyan-hue-500 {
+    background: #00BCD4;
+}
+
+.cyan-hue-600 {
+    background: #00ACC1;
+}
+
+.cyan-hue-700 {
+    background: #0097A7;
+}
+
+.cyan-hue-800 {
+    background: #00838F;
+}
+
+.cyan-hue-900 {
+    background: #006064;
+}
+
+.cyan-hue-A100 {
+    background: #84FFFF;
+}
+
+.cyan-hue-A200 {
+    background: #18FFFF;
+}
+
+.cyan-hue-A400 {
+    background: #00E5FF;
+}
+
+.cyan-hue-A700 {
+    background: #00B8D4;
+}
+
+
+/* Teal*/
+.teal-hue-50 {
+    background: #E0F2F1;
+}
+
+.teal-hue-100 {
+    background: #B2DFDB;
+}
+
+.teal-hue-200 {
+    background: #80CBC4;
+}
+
+.teal-hue-300 {
+    background: #4DB6AC;
+}
+
+.teal-hue-400 {
+    background: #26A69A;
+}
+
+.teal-hue-500 {
+    background: #009688;
+}
+
+.teal-hue-600 {
+    background: #00897B;
+}
+
+.teal-hue-700 {
+    background: #00796B;
+}
+
+.teal-hue-800 {
+    background: #00695C;
+}
+
+.teal-hue-900 {
+    background: #004D40;
+}
+
+.teal-hue-A100 {
+    background: #A7FFEB;
+}
+
+.teal-hue-A200 {
+    background: #64FFDA;
+}
+
+.teal-hue-A400 {
+    background: #1DE9B6;
+}
+
+.teal-hue-A700 {
+    background: #00BFA5;
+}
+
+
+/* Green*/
+.green-hue-50 {
+    background: #E8F5E9;
+}
+
+.green-hue-100 {
+    background: #C8E6C9;
+}
+
+.green-hue-200 {
+    background: #A5D6A7;
+}
+
+.green-hue-300 {
+    background: #81C784;
+}
+
+.green-hue-400 {
+    background: #66BB6A;
+}
+
+.green-hue-500 {
+    background: #4CAF50;
+}
+
+.green-hue-600 {
+    background: #43A047;
+}
+
+.green-hue-700 {
+    background: #388E3C;
+}
+
+.green-hue-800 {
+    background: #2E7D32;
+}
+
+.green-hue-900 {
+    background: #1B5E20;
+}
+
+.green-hue-A100 {
+    background: #B9F6CA;
+}
+
+.green-hue-A200 {
+    background: #69F0AE;
+}
+
+.green-hue-A400 {
+    background: #00E676;
+}
+
+.green-hue-A700 {
+    background: #00C853;
+}
+
+/* Light Green*/
+
+.hue-green-hue-50 {
+    background: #F1F8E9;
+}
+
+.hue-green-hue-100 {
+    background: #DCEDC8;
+}
+
+.hue-green-hue-200 {
+    background: #C5E1A5;
+}
+
+.hue-green-hue-300 {
+    background: #AED581;
+}
+
+.hue-green-hue-400 {
+    background: #9CCC65;
+}
+
+.hue-green-hue-500 {
+    background: #8BC34A;
+}
+
+.hue-green-hue-600 {
+    background: #7CB342;
+}
+
+.hue-green-hue-700 {
+    background: #689F38;
+}
+
+.hue-green-hue-800 {
+    background: #558B2F;
+}
+
+.hue-green-hue-900 {
+    background: #33691E;
+}
+
+.hue-green-hue-A100 {
+    background: #CCFF90;
+}
+
+.hue-green-hue-A200 {
+    background: #B2FF59;
+}
+
+.hue-green-hue-A400 {
+    background: #76FF03;
+}
+
+.hue-green-hue-A700 {
+    background: #64DD17;
+}
+
+/* Lime*/
+
+.lime-hue-50 {
+    background: #F9FBE7;
+}
+
+.lime-hue-100 {
+    background: #F0F4C3;
+}
+
+.lime-hue-200 {
+    background: #E6EE9C;
+}
+
+.lime-hue-300 {
+    background: #DCE775;
+}
+
+.lime-hue-400 {
+    background: #D4E157;
+}
+
+.lime-hue-500 {
+    background: #CDDC39;
+}
+
+.lime-hue-600 {
+    background: #C0CA33;
+}
+
+.lime-hue-700 {
+    background: #AFB42B;
+}
+
+.lime-hue-800 {
+    background: #9E9D24;
+}
+
+.lime-hue-900 {
+    background: #827717;
+}
+
+.lime-hue-A100 {
+    background: #F4FF81;
+}
+
+.lime-hue-A200 {
+    background: #EEFF41;
+}
+
+.lime-hue-A400 {
+    background: #C6FF00;
+}
+
+.lime-hue-A700 {
+    background: #AEEA00;
+}
+
+
+/* Yellow*/
+
+.yellow-hue-50 {
+    background: #FFFDE7;
+}
+
+.yellow-hue-100 {
+    background: #FFF9C4;
+}
+
+.yellow-hue-200 {
+    background: #FFF59D;
+}
+
+.yellow-hue-300 {
+    background: #FFF176;
+}
+
+.yellow-hue-400 {
+    background: #FFEE58;
+}
+
+.yellow-hue-500 {
+    background: #FFEB3B;
+}
+
+.yellow-hue-600 {
+    background: #FDD835;
+}
+
+.yellow-hue-700 {
+    background: #FBC02D;
+}
+
+.yellow-hue-800 {
+    background: #F9A825;
+}
+
+.yellow-hue-900 {
+    background: #F57F17;
+}
+
+.yellow-hue-A100 {
+    background: #FFFF8D;
+}
+
+.yellow-hue-A200 {
+    background: #FFFF00;
+}
+
+.yellow-hue-A400 {
+    background: #FFEA00;
+}
+
+.yellow-hue-A700 {
+    background: #FFD600;
+}
+
+
+/* Amber*/
+.amber-hue-50 {
+    background: #FFF8E1;
+}
+
+.amber-hue-100 {
+    background: #FFECB3;
+}
+
+.amber-hue-200 {
+    background: #FFE082;
+}
+
+.amber-hue-300 {
+    background: #FFD54F;
+}
+
+.amber-hue-400 {
+    background: #FFCA28;
+}
+
+.amber-hue-500 {
+    background: #FFC107;
+}
+
+.amber-hue-600 {
+    background: #FFB300;
+}
+
+.amber-hue-700 {
+    background: #FFA000;
+}
+
+.amber-hue-800 {
+    background: #FF8F00;
+}
+
+.amber-hue-900 {
+    background: #FF6F00;
+}
+
+.amber-hue-A100 {
+    background: #FFE57F;
+}
+
+.amber-hue-A200 {
+    background: #FFD740;
+}
+
+.amber-hue-A400 {
+    background: #FFC400;
+}
+
+.amber-hue-A700 {
+    background: #FFAB00;
+}
+
+/* Orange*/
+
+.orange-hue-50 {
+    background: #FFF3E0;
+}
+
+.orange-hue-100 {
+    background: #FFE0B2;
+}
+
+.orange-hue-200 {
+    background: #FFCC80;
+}
+
+.orange-hue-300 {
+    background: #FFB74D;
+}
+
+.orange-hue-400 {
+    background: #FFA726;
+}
+
+.orange-hue-500 {
+    background: #FF9800;
+}
+
+.orange-hue-600 {
+    background: #FB8C00;
+}
+
+.orange-hue-700 {
+    background: #F57C00;
+}
+
+.orange-hue-800 {
+    background: #EF6C00;
+}
+
+.orange-hue-900 {
+    background: #E65100;
+}
+
+.orange-hue-A100 {
+    background: #FFD180;
+}
+
+.orange-hue-A200 {
+    background: #FFAB40;
+}
+
+.orange-hue-A400 {
+    background: #FF9100;
+}
+
+.orange-hue-A700 {
+    background: #FF6D00;
+}
+
+
+/* Deep Orange*/
+
+.deep-orange {
+    background: #FBE9E7;
+}
+
+.deep-orange-hue-100 {
+    background: #FFCCBC;
+}
+
+.deep-orange-hue-200 {
+    background: #FFAB91;
+}
+
+.deep-orange-hue-300 {
+    background: #FF8A65;
+}
+
+.deep-orange-hue-400 {
+    background: #FF7043;
+}
+
+.deep-orange0 {
+    background: #FF5722;
+}
+
+.deep-orange-hue-600 {
+    background: #F4511E;
+}
+
+.deep-orange-hue-700 {
+    background: #E64A19;
+}
+
+.deep-orange-hue-800 {
+    background: #D84315;
+}
+
+.deep-orange-hue-900 {
+    background: #BF360C;
+}
+
+.deep-orange-hue-A100 {
+    background: #FF9E80;
+}
+
+.deep-orange-hue-A200 {
+    background: #FF6E40;
+}
+
+.deep-orange-hue-A400 {
+    background: #FF3D00;
+}
+
+.deep-orange-hue-A700 {
+    background: #DD2C00;
+}
+
+
+/* Brown*/
+.brown-hue-50 {
+    background: #EFEBE9;
+}
+
+.brown-hue-100 {
+    background: #D7CCC8;
+}
+
+.brown-hue-200 {
+    background: #BCAAA4;
+}
+
+.brown-hue-300 {
+    background: #A1887F;
+}
+
+.brown-hue-400 {
+    background: #8D6E63;
+}
+
+.brown-hue-500 {
+    background: #795548;
+}
+
+.brown-hue-600 {
+    background: #6D4C41;
+}
+
+.brown-hue-700 {
+    background: #5D4037;
+}
+
+.brown-hue-800 {
+    background: #4E342E;
+}
+
+.brown-hue-900 {
+    background: #3E2723;
+}
+
+/* Grey*/
+
+.grey-hue-50 {
+    background: #FAFAFA;
+}
+
+.grey-hue-100 {
+    background: #F5F5F5;
+}
+
+.grey-hue-200 {
+    background: #EEEEEE;
+}
+
+.grey-hue-300 {
+    background: #E0E0E0;
+}
+
+.grey-hue-400 {
+    background: #BDBDBD;
+}
+
+.grey-hue-500 {
+    background: #9E9E9E;
+}
+
+.grey-hue-600 {
+    background: #757575;
+}
+
+.grey-hue-700 {
+    background: #616161;
+}
+
+.grey-hue-800 {
+    background: #424242;
+}
+
+.grey-hue-900 {
+    background: #212121;
+}
+
+/* Blue Grey*/
+
+.blue-grey-hue-50 {
+    background: #ECEFF1;
+}
+
+.blue-grey-hue-100 {
+    background: #CFD8DC;
+}
+
+.blue-grey-hue-200 {
+    background: #B0BEC5;
+}
+
+.blue-grey-hue-300 {
+    background: #90A4AE;
+}
+
+.blue-grey-hue-400 {
+    background: #78909C;
+}
+
+.blue-grey-hue-500 {
+    background: #607D8B;
+}
+
+.blue-grey-hue-600 {
+    background: #546E7A;
+}
+
+.blue-grey-hue-700 {
+    background: #455A64;
+}
+
+.blue-grey-hue-800 {
+    background: #37474F;
+}
+
+.cyan-hue-900 {
+    background: #263238;
+}
+
+/* Black*/
+.black {
+    background-color: #000000;
+}
+
+/* White*/
+.white {
+    background-color: #FFFFFF;
+}
